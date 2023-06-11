@@ -16,16 +16,17 @@ $loggedInUserId = $_SESSION["id"];
   <title>Todo List</title>
   <style>
     body {
-      background-image: url(./public/bg.jpg);
+      background-image: url(public/sampul.jpg);
+      background-repeat: no-repeat;
     }
 
     .form-container {
-      background-color: #8294C4;
+      background-color: #ffffff;
       padding: 20px;
       border-radius: 5px;
     }
     .table-container {
-      background-color: #8294C4;
+      background-color: #F4D3D3;
       padding: 20px;
       border-radius: 5px;
     }
